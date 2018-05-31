@@ -17,7 +17,7 @@ namespace GitTest
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            // Cream on chrome
+            // rectifier
         }
     }
 }
