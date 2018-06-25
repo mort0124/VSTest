@@ -10,6 +10,6 @@ namespace GitTest
     {
         // adding class 1
         // adding another line
-        
+        // blah blahj
     }
 }
